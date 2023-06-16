@@ -6,17 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Free Education Template</title>
+    <title>CPS</title>
     <!-- BOOTSTRAP CORE STYLE CSS -->
-    <style>
-   #whatsapp-button {
-      display: none;
-      position: fixed;
-      bottom: 20px;
-      left: calc(100% - 80px);
-      z-index: 9999;
-    }
-  </style>
+    
     <link href="<?php echo RUTA_URL ?>/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME CSS -->
     <link href="<?php echo RUTA_URL ?>/css/font-awesome.min.css" rel="stylesheet" />
