@@ -1,15 +1,13 @@
 <?php
-if (session_status() === PHP_SESSION_NONE) {
-    session_start();
-}
 require_once('config/configurar.php');
-
-
-/* require_once('librerias/Base.php');
-require_once('librerias/Enrutador.php');
-require_once('librerias/Controlador.php');
- */
+require_once('librerias/mail/Exception.php');
+require_once('librerias/mail/PHPMailer.php');
+require_once('librerias/mail/SMTP.php');
 //autoload 
+
+use RUTA_APP\librerias\PHPMailer;
+use RUTA_APP\librerias\Exception;
+use RUTA_APP\librerias\SMTP;
 
 spl_autoload_register(function($nombreClase){
     require_once('librerias/'.$nombreClase.'.php');

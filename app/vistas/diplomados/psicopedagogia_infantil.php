@@ -1,6 +1,7 @@
 <!-- head -->
 <?php require RUTA_APP . '/vistas/inc/head.php'; ?>
 <!-- end head -->
+
 <body>
     <!-- Nav -->
     <?php require RUTA_APP . '/vistas/inc/nav.php'; ?>
@@ -22,7 +23,7 @@
                                 <!-- Slider 01 -->
                                 <li>
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
-                                    <h1>ATENCIÓN INTEGRAL A LA PRIMERA INFANCIA</h1>
+                                    <h1>PSICOPEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
                                     <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
                                         Inscribirse
@@ -60,16 +61,16 @@
     <div id="course-sec" class="container set-pad">
         <div class="row text-align: center;">
             <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
-            <div class="text-center">
-                                <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">ATENCIÓN INTEGRAL A LA PRIMERA INFANCIA</h1>
-                            </div>
+                <div class="text-center">
+                    <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">PSICOPEDAGOGÍA INFANTIL</h1>
+                </div>
                 <p data-scroll-reveal="enter from the bottom after 0.3s" style="text-align: justify; text-justify: inter-word;">
-                    El diplomado de <b>Atención Integral a la Primera Infancia</b> es un programa educativo informal enfocado en proporcionar conocimientos y
-                    habilidades especializadas en el cuidado y educación de niños y niñas en sus primeros años de vida. Explora el desarrollo infantil,
-                    abordando temas como salud, nutrición, desarrollo cognitivo, emocional y social. Se brindan herramientas prácticas,
-                    estrategias de estimulación temprana y enfoques pedagógicos para promover una atención de calidad. También se analizan aspectos de inclusión,
-                    diversidad y participación de la familia y la comunidad. Al finalizar este diplomado, los participantes estarán mejor preparados en el ámbito de la
-                    primera infancia con sólidos fundamentos teóricos y prácticos.
+                    El Diplomado en <b>Psicopedagogía infantil</b>  ofrece una formación especializada en el área de la educación y el desarrollo de los niños.
+                    Este programa se enfoca en brindar conocimientos y herramientas para comprender y atender las necesidades educativas de los niños desde una perspectiva psicológica y pedagógica.
+
+                    Durante el diplomado, se exploran temas relacionados con el desarrollo cognitivo, emocional y social de los niños,
+                    así como estrategias de intervención y evaluación psicopedagógica. Se analizan también los diferentes trastornos del
+                    aprendizaje y se ofrecen técnicas y recursos para apoyar a los niños con dificultades educativas.
                 </p>
             </div>
 
@@ -99,8 +100,8 @@
                                 <br />
                                 <b>Certificable:</b> Si (Opcional)
                                 <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
-                                        Inscribirse
-                                    </a>
+                                    Inscribirse
+                                </a>
                             </span>
                         </div>
                     </div>
