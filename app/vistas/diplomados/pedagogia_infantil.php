@@ -10,7 +10,7 @@
         <img src="<?php echo RUTA_URL ?>/img/faculty/logo_whatsapp.png" alt="WhatsApp" style="max-width: 135%; height: auto;" />
     </a>
     <!--NAVBAR SECTION END-->
-    <div class="home-sec" id="home">
+    <div class="home_3-sec" id="home_3">
         <div class="overlay">
             <div class="container">
                 <div class="row text-center ">
@@ -22,9 +22,9 @@
                                 <!-- Slider 01 -->
                                 <li>
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
-                                    <h1>ATENCIÓN INTEGRAL A LA PRIMERA INFANCIA</h1>
+                                    <h1>PEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
-                                    <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
+                                    <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
                                     </a>
 
@@ -61,10 +61,10 @@
         <div class="row text-align: center;">
             <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
             <div class="text-center">
-                                <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">ATENCIÓN INTEGRAL A LA PRIMERA INFANCIA</h1>
+                                <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">PEDAGOGÍA INFANTIL</h1>
                             </div>
                 <p data-scroll-reveal="enter from the bottom after 0.3s" style="text-align: justify; text-justify: inter-word;">
-                    El diplomado de <b>Atención Integral a la Primera Infancia</b> es un programa educativo informal enfocado en proporcionar conocimientos y
+                    El diplomado en <b>PEDAGOGÍA INFANTIL</b> es un programa educativo informal enfocado en proporcionar conocimientos y
                     habilidades especializadas en el cuidado y educación de niños y niñas en sus primeros años de vida. Explora el desarrollo infantil,
                     abordando temas como salud, nutrición, desarrollo cognitivo, emocional y social. Se brindan herramientas prácticas,
                     estrategias de estimulación temprana y enfoques pedagógicos para promover una atención de calidad. También se analizan aspectos de inclusión,
@@ -98,7 +98,7 @@
                                 <b>Valor:</b> Gratis
                                 <br />
                                 <b>Certificable:</b> Si (Opcional)
-                                <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
+                                <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
                                     </a>
                             </span>

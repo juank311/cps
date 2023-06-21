@@ -11,7 +11,7 @@ class Diplomados extends Controlador
         $this->diplomadosModelo  = $this->modelo('modelDiplomados');
     }  */
 
-    public function primera_infancia()
+    public function pedagogia_infantil()
     {
         
         if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['enviar'])) {
@@ -44,7 +44,7 @@ class Diplomados extends Controlador
                     echo $oMail->ErrorInfo;
                 }
         }
-       $this->vista('diplomados/primera_infancia'); 
+       $this->vista('diplomados/pedagogia_infantil'); 
     }  
 
     public function psicopedagogia_infantil()

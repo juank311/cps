@@ -11,7 +11,7 @@
         <img src="<?php echo RUTA_URL ?>/img/faculty/logo_whatsapp.png" alt="WhatsApp" style="max-width: 135%; height: auto;" />
     </a>
     <!--NAVBAR SECTION END-->
-    <div class="home-sec" id="home">
+    <div class="home_2-sec" id="home_2">
         <div class="overlay">
             <div class="container">
                 <div class="row text-center ">
@@ -25,7 +25,7 @@
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
                                     <h1>PSICOPEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
-                                    <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
+                                    <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
                                     </a>
 
@@ -80,7 +80,7 @@
 
         <div class="row set-row-pad">
             <div class="col-lg-6 col-md-6 col-sm-6" class="mb-0" data-scroll-reveal="enter from the bottom after 0.4s">
-                <img src="<?php echo RUTA_URL ?>/img/faculty/8.jpg" class="img-rounded" class="img-thumbnail" style="max-width: 100%; height: auto;" />
+                <img src="<?php echo RUTA_URL ?>/img/faculty/psico.jpg" class="img-rounded" class="img-thumbnail" style="max-width: 100%; height: auto;" />
 
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 " class="mt-sm-0 mt-lg-0">
@@ -99,7 +99,7 @@
                                 <b>Valor:</b> Gratis
                                 <br />
                                 <b>Certificable:</b> Si (Opcional)
-                                <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
+                                <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                     Inscribirse
                                 </a>
                             </span>

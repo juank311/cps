@@ -18,9 +18,9 @@
                                 <!-- Slider 01 -->
                                 <li>
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
-                                    <h1>ATENCIÓN INTEGRAL A LA PRIMERA INFANCIA</h1>
+                                    <h1>PEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
-                                    <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
+                                    <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
                                     </a>
 
@@ -32,7 +32,7 @@
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
                                     <h1>PSICOPEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
-                                    <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-info btn-lg">
+                                    <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
                                     </a>
 
@@ -68,7 +68,7 @@
 
                 <div class="col-lg-12  col-md-12 col-sm-12">
 
-                    <h2 data-scroll-reveal="enter from the bottom after 0.1s"> CORPORACIÓN PEDAGÓGICA DE LA SABANA</h2>
+                     <h2 data-scroll-reveal="enter from the bottom after 0.1s"> CORPORACIÓN PEDAGÓGICA DE LA SABANA</h2>
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
             <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.4s">
                 <div class="about-div">
                     <!-- <i class="fa fa-paper-plane-o fa-4x icon-round-border" ></i> -->
-                    <h3>Atención Integral a la Primera Infancia</h3>
+                    <h3>PEDAGOGÍA INFANTIL</h3>
                     <hr />
                     <img src="<?php echo RUTA_URL ?>/img/faculty/4.jpg" class="img-rounded" style="max-width: 80%; height: auto;" />
                     <hr />
@@ -108,8 +108,8 @@
                         <b>Tipo de educación:</b> Informal
                     </span>
                     <br />
-                    <a href= "<?=RUTA_URL?>/diplomados/primera_infancia" class="btn btn-info btn-set">Ver mas</a>
-                    <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-success btn-set">Inscribirse</a>
+                    <a href= "<?=RUTA_URL?>/diplomados/pedagogia_infantil" class="btn btn-info btn-set">Ver mas</a>
+                    <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-success btn-set">Inscribirse</a>
                 </div>
             </div>
             <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.5s">
@@ -130,7 +130,7 @@
                     </span>
                     <br />
                     <a href= "<?=RUTA_URL?>/diplomados/psicopedagogia_infantil" class="btn btn-info btn-set">Ver mas</a>
-                    <a href="https://forms.gle/DXPJD5xoNGig5h9E9" class="btn btn-success btn-set">Inscribirse</a>
+                    <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-success btn-set">Inscribirse</a>
                 </div>
             </div>
             <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.6s">
@@ -245,13 +245,13 @@
                         <div class="panel-heading">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="collapsed">
-                                    <strong> 765+</strong> ATENCIÓN INTEGRAL A LA PRIMERA INFANCIA
+                                    <strong> 765+</strong> PEDAGOGÍA INFANTIL
                                 </a>
                             </h4>
                         </div>
                         <div id="collapse1" class="panel-collapse collapse" style="height: 0px;">
                             <div class="panel-body">
-                                <p>Ya son más de 700 personas certificadas en diplomado de atención integral a la primera infancia.
+                                <p>Ya son más de 700 personas certificadas en diplomado de PEDAGOGÍA INFANTIL.
                                     Su compromiso marca la diferencia en el desarrollo de los niños.
                                     Gracias por contribuir al bienestar de las comunidades.
                                     ¡Sigan fortaleciendo la atención a la primera infancia!</p>
