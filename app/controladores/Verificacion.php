@@ -19,10 +19,10 @@ class Verificacion extends Controlador
             ];
             if (isset($_POST['code'])) {
                 
-                $this->vista('verificacion', $datos[
-                    'dataCertificacion' => $this->search_certificaciones()
+                $this->vista('verificacion', $datos = [
+                    'dataCertificacion' => $this->verificacionModelo->search_certificaciones($datos)
                 ]);
-                print_r($certificacion);
+                -//print_r($datos);
                 exit();
             } else {
                 die('Algo salio mal');

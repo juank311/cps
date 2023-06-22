@@ -19,4 +19,5 @@
     <!-- Google	Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css' />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
 </head>

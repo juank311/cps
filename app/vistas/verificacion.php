@@ -40,19 +40,21 @@
                             </div>
                         </form>
                         <!-- End Formulario -->
+                        <?php if (isset($datos['dataCertificacion'][0]->code) ) :  ?>
                         <div class="card  text-white">
                             <div data-scroll-reveal="enter from the bottom after 0.3s" class="card-body" style="padding: 10px;">
                                 <h4 class="text-center" class="card-title"><b>Datos Consultados</b></h4>
                                 <ul class="list-group">
-                                    <li class="list-group-item"><b>Nombres:</b> <?php echo $certificacion->name;?></li>
-                                    <li class="list-group-item"><b>Apellidos:</b> Orientaciones Educativas Para la Primera Infancia.</li>
-                                    <li class="list-group-item"><b>Fecha de Culminación:</b> Rol del Docente en la Educación Inicial.</li>
-                                    <li class="list-group-item"><b>Estado:</b> Inclusión Educativa en la Edad Preescolar.</li>
-                                    <li class="list-group-item"><b>Código:</b> El Acoso Escolar desde la Primera Infancia, Bulying.</li>
+                                    <li class="list-group-item"><b>Nombres: </b> <?php echo $datos['dataCertificacion'][0]->name;?></li>
+                                    <li class="list-group-item"><b>Apellidos: </b> <?php echo $datos['dataCertificacion'][0]->lastname;?></li>
+                                    <li class="list-group-item"><b>Fecha de Culminación: </b> <?php echo $datos['dataCertificacion'][0]->date;?></li>
+                                    <li class="list-group-item"><b>Estado: </b> <?php echo $datos['dataCertificacion'][0]->status;?></li>
+                                    <li class="list-group-item"><b>Código: </b> <?php echo $datos['dataCertificacion'][0]->code;?></li>
                                 </ul>
                             </div>
                         </div>
-
+                        <?php endif;?>
+                        </br> </br>
                     </div>
                 </div>
             </div>
