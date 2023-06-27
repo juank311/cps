@@ -7,7 +7,7 @@
     <?php require RUTA_APP . '/vistas/inc/nav.php'; ?>
     <!-- end nav -->
 
-    <a href="https://wa.me/+573014574615" target="_blank" id="whatsapp-button">
+    <a href="https://wa.me/+573003168044?text=¡Hola! Me gustaría obtener más información sobre los diplomados." target="_blank" id="whatsapp-button">
         <img src="<?php echo RUTA_URL ?>/img/faculty/logo_whatsapp.png" alt="WhatsApp" style="max-width: 135%; height: auto;" />
     </a>
     <!--NAVBAR SECTION END-->
@@ -23,7 +23,7 @@
                                 <!-- Slider 01 -->
                                 <li>
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
-                                    <h1>PSICOPEDAGOGÍA INFANTIL</h1>
+                                    <h1 style="font-size: 40px;">PSICOPEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
                                     <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
@@ -142,17 +142,17 @@
                                 <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">INFORMACIÓN DEL DIPLOMADO</h1>
                             </div>
                             <span>
-                                <b>Estructura programatica:</b> 120 horas, las cuales estarán divididas en 5 modulos con temas muy importantes sobre la primera infancia. Los estudios, asistencia, acceso a clases, actividades y material complementario son completamente GRATIS, si desea obtener la certificación de los estudios realizados tendrá un valor de <b>$75.000 COP</b>.
+                                <b>Estructura programatica:</b> 120 horas, las cuales estarán divididas en 5 modulos con temas muy importantes sobre la psicopedagogía infantil. Los estudios, asistencia, acceso a clases, actividades y material complementario son completamente GRATIS, si desea obtener la certificación de los estudios realizados tendrá un valor de <b>$75.000 COP</b>.
                             </span>
                             <div class="card bg-info text-white">
                                 <div data-scroll-reveal="enter from the bottom after 0.3s" class="card-body" style="padding: 10px;">
                                     <h4 class="text-center" class="card-title"><b>Contenido Temático</b></h4>
                                     <ul class="list-group">
-                                        <li class="list-group-item"><b>Módulo 1:</b> Conceptos Generales Sobre La Primera Infancia</li>
-                                        <li class="list-group-item"><b>Módulo 2:</b> Orientaciones Educativas Para la Primera Infancia.</li>
-                                        <li class="list-group-item"><b>Módulo 3:</b> Rol del Docente en la Educación Inicial.</li>
-                                        <li class="list-group-item"><b>Módulo 4:</b> Inclusión Educativa en la Edad Preescolar.</li>
-                                        <li class="list-group-item"><b>Módulo 5:</b> El Acoso Escolar desde la Primera Infancia, Bulying.</li>
+                                        <li class="list-group-item"><b>Módulo 1:</b> Psicología del Desarrollo Infantil.</li>
+                                        <li class="list-group-item"><b>Módulo 2:</b> Abusos Sexuales y  Traumas en la Infancia.</li>
+                                        <li class="list-group-item"><b>Módulo 3:</b> El Autismo en la Educación Inicial.</li>
+                                        <li class="list-group-item"><b>Módulo 4:</b> TDAH Trastorno del Déficit de Atención e Hiperactividad.</li>
+                                        <li class="list-group-item"><b>Módulo 5:</b> La Dislexia en el Aula.</li>
                                     </ul>
                                 </div>
                             </div>

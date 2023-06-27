@@ -1,8 +1,8 @@
 <?php
 require_once('config/configurar.php');
-require_once('librerias/mail/Exception.php');
-require_once('librerias/mail/PHPMailer.php');
-require_once('librerias/mail/SMTP.php');
+require_once(RUTA_APP.'/librerias/mail/Exception.php');
+require_once(RUTA_APP.'/librerias/mail/PHPMailer.php');
+require_once(RUTA_APP.'/librerias/mail/SMTP.php');
 //autoload 
 
 use RUTA_APP\librerias\PHPMailer;

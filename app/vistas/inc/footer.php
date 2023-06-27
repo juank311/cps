@@ -6,7 +6,7 @@
                        <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
                            <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">CONTACTANOS</h1>
                            <p data-scroll-reveal="enter from the bottom after 0.3s">
-                               Nos encanta que estes interesado, dejanos tus datos y te conctataremos o escribemos por whatsapp haciendo click aquí: <a href="https://wa.me/+573014574615">CHATEA CON NOSOTROS</a>
+                               Nos encanta que estes interesado, dejanos tus datos y te conctataremos o escribemos por whatsapp haciendo click aquí: <a href="https://wa.me/+573003168044?text=¡Hola! Me gustaría obtener más información sobre los diplomados.">CHATEA CON NOSOTROS</a>
                            </p>
                        </div>
 
@@ -59,7 +59,7 @@
                        <a href="#"> <img src="<?php echo RUTA_URL ?>/img/Social/facebook.png" alt="" /> </a>
                        <a href="#"> <img src="<?php echo RUTA_URL ?>/img/Social/google-plus.png" alt="" /></a>
                        <a href="#"> <img src="<?php echo RUTA_URL ?>/img/Social/twitter.png" alt="" /></a>
-                       <a href="https://wa.me/+573014574615"> <img src="<?php echo RUTA_URL ?>/img/Social/logo_whatsapp.png" alt="" style="max-width: 24%; height: auto;" /></a>
+                       <a href="https://wa.me/+573003168044?text=¡Hola! Me gustaría obtener más información sobre los diplomados."> <img src="<?php echo RUTA_URL ?>/img/Social/logo_whatsapp.png" alt="" style="max-width: 24%; height: auto;" /></a>
                    </div>
                </div>
 

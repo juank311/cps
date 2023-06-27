@@ -12,8 +12,11 @@ class modelVerificacion
     {
         $this->db->query("SELECT * FROM certificaciones WHERE code = :code");
         $this->db->bind(':code', $datos['code']);
-        $datos = $this->db->registros();
-
-        return $datos;
+        if ($datos = $this->db->registros()) {
+            return $datos;
+        }else {
+            $datos = 1;
+            return $datos;
+        }
     }
 }

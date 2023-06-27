@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="Descubre los mejores diplomados de primera infancia en la Corporación Pedagógica de la Sabana. Nuestros programas educativos informales te brindarán los conocimientos y habilidades necesarios para el cuidado y la educación de los más pequeños. A través de contenidos actualizados y metodologías innovadoras, te prepararemos para ofrecer una atención integral de calidad. Únete a nosotros y marca la diferencia en la vida de los niños desde sus primeros años. ¡Regístrate ahora y comienza tu camino en la educación de la primera infancia!" />
+    <meta name="author" content="jksoftwaresolutions" />
     <title>CPS</title>
     <!-- BOOTSTRAP CORE STYLE CSS -->
     

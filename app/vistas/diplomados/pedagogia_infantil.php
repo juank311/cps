@@ -6,7 +6,7 @@
     <?php require RUTA_APP . '/vistas/inc/nav.php'; ?>
     <!-- end nav -->
 
-    <a href="https://wa.me/+573014574615" target="_blank" id="whatsapp-button">
+    <a href="https://wa.me/+573003168044?text=¡Hola! Me gustaría obtener más información sobre los diplomados." target="_blank" id="whatsapp-button">
         <img src="<?php echo RUTA_URL ?>/img/faculty/logo_whatsapp.png" alt="WhatsApp" style="max-width: 135%; height: auto;" />
     </a>
     <!--NAVBAR SECTION END-->

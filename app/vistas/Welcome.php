@@ -1,12 +1,17 @@
+<!-- head -->
 <?php require RUTA_APP . '/vistas/inc/head.php'; ?>
+<!-- end head -->
 
 <body>
+    <!-- Nav -->
     <?php require RUTA_APP . '/vistas/inc/nav.php'; ?>
-    <a href="https://wa.me/+573014574615" target="_blank" id="whatsapp-button">
+    <!-- end nav -->
+
+    <a href="https://wa.me/+573003168044?text=¡Hola! Me gustaría obtener más información sobre los diplomados." target="_blank" id="whatsapp-button">
         <img src="<?php echo RUTA_URL ?>/img/faculty/logo_whatsapp.png" alt="WhatsApp" style="max-width: 135%; height: auto;" />
     </a>
     <!--NAVBAR SECTION END-->
-    <div class="home-sec" id="home">
+    <div class="home_3-sec" id="home_3">
         <div class="overlay">
             <div class="container">
                 <div class="row text-center ">
@@ -27,18 +32,16 @@
                                 </li>
                                 <!-- End Slider 01 -->
 
-                                <!-- Slider 02 -->
+                                <!-- End Slider 02 -->
                                 <li>
                                     <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
-                                    <h1>PSICOPEDAGOGÍA INFANTIL</h1>
+                                    <h1 style="font-size: 40px;">PSICOPEDAGOGÍA INFANTIL</h1>
                                     <h4>Dale un Plus+ a tu carrera!</h4>
                                     <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-info btn-lg">
                                         Inscribirse
                                     </a>
 
                                 </li>
-                                <!-- End Slider 02 -->
-
                                 <!-- Slider 03 -->
                                 <!-- <li>
                             <h3>ESTUDIA GRATIS EN EL DIPLOMADO:</h3>
@@ -53,29 +56,23 @@
                                 <!-- End Slider 03 -->
                             </ul>
                         </div>
-
                     </div>
-
                 </div>
             </div>
         </div>
-
     </div>
-    <!--HOME SECTION END-->
-    <div class="tag-line">
+     <!--HOME SECTION END-->
+     <div class="tag-line">
         <div class="container">
             <div class="row  text-center">
-
                 <div class="col-lg-12  col-md-12 col-sm-12">
-
-                     <h2 data-scroll-reveal="enter from the bottom after 0.1s"> CORPORACIÓN PEDAGÓGICA DE LA SABANA</h2>
+                    <h2 data-scroll-reveal="enter from the bottom after 0.1s"> CORPORACIÓN PEDAGÓGICA DE LA SABANA</h2>
                 </div>
             </div>
         </div>
-
     </div>
-    <!--HOME SECTION TAG LINE END-->
-    <div id="features-sec" class="container set-pad">
+     <!--HOME SECTION TAG LINE END-->
+     <div id="features-sec" class="container set-pad">
         <div class="row text-center">
             <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
                 <h1 data-scroll-reveal="enter from the bottom after 0.2s" class="header-line">DIPLOMADOS</h1>
@@ -89,7 +86,6 @@
 
 
         <div class="row">
-
 
             <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.4s">
                 <div class="about-div">
@@ -108,7 +104,7 @@
                         <b>Tipo de educación:</b> Informal
                     </span>
                     <br />
-                    <a href= "<?=RUTA_URL?>/diplomados/pedagogia_infantil" class="btn btn-info btn-set">Ver mas</a>
+                    <a href="<?= RUTA_URL ?>/diplomados/pedagogia_infantil" class="btn btn-info btn-set">Ver mas</a>
                     <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-success btn-set">Inscribirse</a>
                 </div>
             </div>
@@ -129,7 +125,7 @@
                         <b>Tipo de educación:</b> Informal
                     </span>
                     <br />
-                    <a href= "<?=RUTA_URL?>/diplomados/psicopedagogia_infantil" class="btn btn-info btn-set">Ver mas</a>
+                    <a href="<?= RUTA_URL ?>/diplomados/psicopedagogia_infantil" class="btn btn-info btn-set">Ver mas</a>
                     <a href="https://forms.gle/TpYU9CLacLF7H3v3A" class="btn btn-success btn-set">Inscribirse</a>
                 </div>
             </div>
@@ -154,12 +150,10 @@
                     <!-- <a href="#" class="btn btn-success btn-set">Inscribirse</a> -->
                 </div>
             </div>
-
-
         </div>
     </div>
-    <!-- FEATURES SECTION END-->
-    <div id="faculty-sec">
+<!-- SOBRE NOSOTROS-->
+<div id="faculty-sec">
         <div class="container set-pad">
             <div class="row text-center">
                 <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
@@ -173,8 +167,6 @@
             <!--/.HEADER LINE END-->
 
             <div class="row">
-
-
                 <div class="col-lg-4  col-md-4 col-sm-4" data-scroll-reveal="enter from the bottom after 0.4s">
                     <div class="faculty-div">
                         <img src="<?php echo RUTA_URL ?>/img/faculty/ISO_2.png" class="img-rounded" style="max-width: 80%; height: auto;" />
@@ -183,7 +175,6 @@
                         <h4>ISO NTC</h4>
                         <p>
                             La norma ISO 9001, NTC 5581 y NTC 5555 ayudan a las organizaciones para que puedan ofrecer productos y servicios de calidad.
-
                         </p>
                     </div>
                 </div>
@@ -218,8 +209,8 @@
             </div>
         </div>
     </div>
-    <!-- FACULTY SECTION END-->
-    <div id="course-sec" class="container set-pad">
+     <!-- EXPERIENCIAS -->
+     <div id="course-sec" class="container set-pad">
         <div class="row text-center">
             <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
                 <h1 data-scroll-reveal="enter from the bottom after 0.1s" class="header-line">NUESTROS PARTICIPANTES</h1>
@@ -232,7 +223,6 @@
 
         </div>
         <!--/.HEADER LINE END-->
-
 
         <div class="row set-row-pad">
             <div class="col-lg-6 col-md-6 col-sm-6 " data-scroll-reveal="enter from the bottom after 0.4s">
@@ -301,10 +291,6 @@
                     </span>
                 </div>
             </div>
-
-
-
         </div>
     </div>
-
     <?php require RUTA_APP . '/vistas/inc/footer.php'; ?>

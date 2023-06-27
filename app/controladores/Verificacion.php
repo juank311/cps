@@ -22,7 +22,7 @@ class Verificacion extends Controlador
                 $this->vista('verificacion', $datos = [
                     'dataCertificacion' => $this->verificacionModelo->search_certificaciones($datos)
                 ]);
-                -//print_r($datos);
+                //print_r($datos);
                 exit();
             } else {
                 die('Algo salio mal');
