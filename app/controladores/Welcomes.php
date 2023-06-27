@@ -8,7 +8,7 @@ class Welcomes extends Controlador
 
     public function __construct()
     {
-        $this->welcomeModelo  = $this->modelo('Welcome');
+        $this->welcomeModelo  = $this->modelo('welcome');
     } 
 
     public function index()
@@ -43,7 +43,7 @@ class Welcomes extends Controlador
                 echo $oMail->ErrorInfo;
             }
         }
-        $this->vista('Welcome');
+        $this->vista('welcome');
         
     }  
 }
